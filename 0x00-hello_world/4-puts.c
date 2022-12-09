@@ -1,11 +1,7 @@
-#include <stdio.h>
-/**
-* main - entry point
-* 
-*Return: 0 after printing the function
-*/
-int main(void)
-{
-Put("\"Programming is like building a multilingual puzzle");
-return (0);
-}	
+#include<studio.h>
+#include<string.h>
+int main(void) {
+  char str1[]=("Programming is like building a multilingual puzzle"/n);
+  puts(str1);
+  return 0;
+}
