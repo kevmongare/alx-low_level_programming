@@ -1,13 +1,12 @@
 #include <stdio.h>
 #include <string.h>
-int main (void)
 /**
 * main - entry point
 *
 *Return: 0 after printing the function
 */
+int main (void)
 {
-char str1[] = "with proper grammar, but the outcome is a piece of art,";
-printf(str1);
+printf("with proper grammar, but the outcome is a piece of art,\n");
 return (0);
 }
