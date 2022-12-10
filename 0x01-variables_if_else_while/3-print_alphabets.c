@@ -9,6 +9,7 @@ int main(void)
 {
 	char ch;
 	char CAP;
+	
 	for (ch = 'a'; ch <= 'z'; ch++)
 	{
 	putchar (ch);
