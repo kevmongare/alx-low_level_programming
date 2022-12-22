@@ -1,1 +1,1 @@
-README
+more on arrays and pointers
