@@ -1,15 +1,15 @@
-#include "main.h"
+#include<stdio.h>
 /**
  *print_alphabet - This program prints the english alphabets a-z
  * Return: void
  */
-void print_alphabet(void)
+int main(void)
 {
 	char c;
 
 	for (c = 'a'; c <= 'z'; c++)
 	{
-		_putchar(c);
+		putchar(c);
 	}
-	_putchar('\n');
+                 putchar('\n');
 }
