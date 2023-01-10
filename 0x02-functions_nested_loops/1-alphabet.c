@@ -3,7 +3,7 @@
  *print_alphabet - This program prints the english alphabets a-z
  * Return: void
  */
-int main(void)
+int main()
 {
 	char c;
 
