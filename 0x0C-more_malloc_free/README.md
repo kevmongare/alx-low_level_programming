@@ -1,1 +1,1 @@
-readme file for 0x0C-more_malloc_free
+I learnt on how to create a static library with ar and ranlib and nm commands
