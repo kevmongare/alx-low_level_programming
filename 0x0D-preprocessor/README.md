@@ -1,1 +1,2 @@
-preprocessor assignment
+Explains more onMACROS and PREPROCESSORS
+
